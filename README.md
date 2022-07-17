@@ -1,5 +1,4 @@
 # Computational-Physics
 
-<form action="https://google.com">
-    <input type="submit" value="Go to Google" />
-</form>
+
+Example codes and brief theory for Computational Physics Course [NKUA](https://eclass.uoa.gr/courses/PHYS192/)
