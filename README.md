@@ -1,6 +1,5 @@
 # Computational-Physics
 
-
 Example codes and brief theory for [Computational Physics Course NKUA](https://eclass.uoa.gr/courses/PHYS192/)
 
 0. Graphs
@@ -18,9 +17,5 @@ Example codes and brief theory for [Computational Physics Course NKUA](https://e
    - [MC Integral](https://github.com/costpetrides/Computational-Physics/tree/main/MC%20Integral)
    - [Interpolation](https://github.com/costpetrides/Computational-Physics/tree/main/Interpolation)
    
-
 3. Applications
    - [Ordinary Differential Equation](https://github.com/costpetrides/Computational-Physics/tree/main/ODE)
-   
-
-[add](https://drive.google.com/file/d/1OSfv9XV1kfne_iltiJ3OdU9c2HfKU7Zy/view?usp=sharing)
