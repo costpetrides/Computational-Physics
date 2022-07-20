@@ -1,0 +1,241 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "Untitled99.ipynb",
+      "provenance": [],
+      "authorship_tag": "ABX9TyM84hF9JLkJfQBvr+o+eFOn",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/costpetrides/Computational-Physics/blob/main/Differentiation/2.%20Derivative%20with%20n%20pointsipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "# 3 Points Derivative"
+      ],
+      "metadata": {
+        "id": "RCn24pYMve5t"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "**3 Points Derivative - End**\n",
+        "\n",
+        "$\\frac{df(x_{o})}{dx} =  \\frac{f(x_{o} + h) \\;+\\; 4f(x_{o} + h) \\;- \\;3f(x_{o} + h)}{2h}$\n"
+      ],
+      "metadata": {
+        "id": "RMoXsZNLnfum"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "**Example**\n",
+        "\n",
+        "Find the derivative of $y'(x)=x.e^{x}$"
+      ],
+      "metadata": {
+        "id": "bzufkwgKThV_"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "import numpy as np\n",
+        "import matplotlib.pyplot as plt\n",
+        "\n",
+        "def f(x):\n",
+        "    return x*exp(x)\n",
+        "\n",
+        "h=0.01\n",
+        "x=2\n",
+        "df =(-f(x+2*h) + 4*f(x+h) - 3*f(x))/(2*h)\n",
+        "\n",
+        "\n",
+        "print('df(%.2f)/dx = %.4f' %(x,df))"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "wmWYijiG-bcL",
+        "outputId": "71c77366-1060-437c-dd2b-5687fbac4837"
+      },
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "df(2.00)/dx = 22.1659\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "**3 Points Derivative - Midle**\n",
+        "\n",
+        "$\\frac{df(x_{o})}{dx} =  \\frac{f(x_{o} + h) \\; -  \\; f(x_{o} - h) }{2h}$\n"
+      ],
+      "metadata": {
+        "id": "uiIzj1N5uWP4"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "import numpy as np\n",
+        "\n",
+        "import matplotlib.pyplot as plt\n",
+        "from math import *\n",
+        "\n",
+        "# Function\n",
+        "def f(x):\n",
+        "    return x*e**x\n",
+        "\n",
+        "x=2\n",
+        "h=0.01\n",
+        "\n",
+        "der=(f(x+h)-f(x-h))/(2*h)\n",
+        "print('df(%.2f)/dx =%.4f' %(x,der))"
+      ],
+      "metadata": {
+        "id": "bE7fc_oDuSuj",
+        "outputId": "b54a1334-8fba-4f9a-fb04-cdd3bd16f35e",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        }
+      },
+      "execution_count": 1,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "df(2.00)/dx =22.1678\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "# 5 Points Derivative"
+      ],
+      "metadata": {
+        "id": "VqhGVzgzv3q_"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "**5 Points Derivative - End**\n",
+        "\n",
+        "$\\frac{df(x_{o})}{dx} =  \\frac{-25f(x_{o}) \\;+\\; 48f(x_{o} + h) \\; - \\;36f(x_{o} + 2h) \\; + \\; 16f(x_{o} + 3h) \\; - \\;3f(x_{o} + 4h}{12h} $\n"
+      ],
+      "metadata": {
+        "id": "MRQqhQoCv5fh"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "import numpy as np\n",
+        "import matplotlib.pyplot as plt\n",
+        "\n",
+        "def f(x):\n",
+        "  return x*exp(x)\n",
+        "\n",
+        "h=0.01\n",
+        "x=2\n",
+        "\n",
+        "df = (-25*f(x) + 48*f(x+h) - 36*f(x+2*h) + 16*f(x+3*h) - 3*f(x+4*h))/(12*h)\n",
+        "\n",
+        "print('df(%.2f)/dx = %.4f' %(x,df))"
+      ],
+      "metadata": {
+        "id": "ESLFwmYdxuRX",
+        "outputId": "63aa85d8-f119-4d29-e240-394dd3bc0a2a",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        }
+      },
+      "execution_count": 2,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "df(2.00)/dx = 22.1672\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "**5 Points Derivative - Mid**\n",
+        "\n",
+        "$\\frac{df(x_{o})}{dx} =  \\frac{f(x_{o}-2h) \\;-\\; 8f(x_{o} - h) \\; + \\;8f(x_{o} + h) \\; - \\; f(x_{o} + 2h)}{12h} $"
+      ],
+      "metadata": {
+        "id": "-5_mWnj_x6b-"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "import numpy as np\n",
+        "import matplotlib.pyplot as plt\n",
+        "\n",
+        "def f(x):\n",
+        "    return x*exp(x)\n",
+        "\n",
+        "h=0.01\n",
+        "x=2\n",
+        "df  = (f(x-2*h) - 8*f(x-h) + 8*f(x+h) - f(x+2*h))/(12*h)\n",
+        "\n",
+        "print('df(%.2f)/dx = %.4f' %(x,df))"
+      ],
+      "metadata": {
+        "id": "NobF7l3Vx5kR",
+        "outputId": "320a35ab-2545-4356-c285-34dfd70d1468",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        }
+      },
+      "execution_count": 3,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "df(2.00)/dx = 22.1672\n"
+          ]
+        }
+      ]
+    }
+  ]
+}
