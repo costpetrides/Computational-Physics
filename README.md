@@ -20,6 +20,7 @@ Example codes and brief theory for [Computational Physics Course NKUA](https://e
 3. Applications
    - [Interpolation](https://github.com/costpetrides/Computational-Physics/tree/main/Interpolation)
    - [Ordinary Differential Equation](https://github.com/costpetrides/Computational-Physics/tree/main/ODE)
+   - [Monte Carlo](https://github.com/costpetrides/Computational-Physics/tree/main/Monte%20Carlo)
 
 
 
