@@ -4,7 +4,7 @@ Example codes and brief theory for [Computational Physics Course NKUA](https://e
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 0. Graphs
-   - [Graphs](https://github.com/costpetrides/Python/tree/main/Graphs)
+   - [Graphs](https://github.com/costpetrides/Computational-Physics/tree/main/Graphs)
 
 1. Statistical Data Analysis
    - [Statistics](https://github.com/costpetrides/Computational-Physics/tree/main/Statistics)
