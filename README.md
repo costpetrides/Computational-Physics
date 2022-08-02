@@ -31,5 +31,7 @@ Linear Systems,Monte Carlo ,MC Integral]
 
 - [Differentiation](https://github.com/costpetrides/Computational-Physics/blob/main/Solved%20Problems/Differentiation.ipynb)
 
--[Integration](https://github.com/costpetrides/Computational-Physics/blob/main/Solved%20Problems/Integration.ipynb)
+- [Integration](https://github.com/costpetrides/Computational-Physics/blob/main/Solved%20Problems/Integration.ipynb)
+
+- [Interpolation](https://github.com/costpetrides/Computational-Physics/blob/main/Solved%20Problems/Interpolation.ipynb)
 
