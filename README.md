@@ -26,4 +26,7 @@ Example codes and brief theory for [Computational Physics Course NKUA](https://e
 
 Solved problems 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
-- [Set 1](https://github.com/costpetrides/Computational-Physics/blob/main/Solved%20Problems/Set%201.ipynb) , [Set 2](https://github.com/costpetrides/Computational-Physics/blob/main/Solved%20Problems/Set%202.ipynb), [Set 3](https://github.com/costpetrides/Computational-Physics/blob/main/Solved%20Problems/Set%203.ipynb)
+- [Set 1](https://github.com/costpetrides/Computational-Physics/blob/main/Solved%20Problems/Set%201.ipynb) , [Set 2](https://github.com/costpetrides/Computational-Physics/blob/main/Solved%20Problems/Set%202.ipynb), [Set 3](https://github.com/costpetrides/Computational-Physics/blob/main/Solved%20Problems/Set%203.ipynb).    [Statistics, Roots Finding
+Linear Systems, MC Integral]
+
+
