@@ -35,3 +35,5 @@ Linear Systems,Monte Carlo ,MC Integral]
 
 - [Interpolation](https://github.com/costpetrides/Computational-Physics/blob/main/Solved%20Problems/Interpolation.ipynb)
 
+- [ODE 1](https://github.com/costpetrides/Computational-Physics/blob/main/Solved%20Problems/ODE1.ipynb), [ODE 2](https://github.com/costpetrides/Computational-Physics/blob/main/Solved%20Problems/ODE2.ipynb)  [Ordinary Differential Equation]
+
