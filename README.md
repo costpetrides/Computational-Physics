@@ -36,5 +36,3 @@ Linear Systems,Monte Carlo ,MC Integral]
 - [ODE 1](https://github.com/costpetrides/Computational-Physics/blob/main/Solved%20Problems/ODE1.ipynb), [ODE 2](https://github.com/costpetrides/Computational-Physics/blob/main/Solved%20Problems/ODE2.ipynb)  [Ordinary Differential Equation]
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rocker-org/binder/HEAD?urlpath=rstudio)
-   
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg (https://colab.research.google.com/github/{user_name}/{repo_name}/blob/{branch_name}/path/to/notebook.ipynb)
