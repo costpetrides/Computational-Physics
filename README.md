@@ -22,8 +22,6 @@ Example codes and brief theory for [Computational Physics Course NKUA](https://e
    - [Ordinary Differential Equation](https://github.com/costpetrides/Computational-Physics/tree/main/ODE)
    - [Monte Carlo](https://github.com/costpetrides/Computational-Physics/tree/main/Monte%20Carlo)
 
-
-
 Solved problems  <sub> (Κ. Βελλίδης, Κ. Δασύρα, Κ Θεοφιλάτος, Δ. Φασουλιώτης [eclass NKUA](https://eclass.uoa.gr/courses/PHYS192/))<sub> 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 - [Set 1](https://github.com/costpetrides/Computational-Physics/blob/main/Solved%20Problems/Set%201.ipynb) , [Set 2](https://github.com/costpetrides/Computational-Physics/blob/main/Solved%20Problems/Set%202.ipynb), [Set 3](https://github.com/costpetrides/Computational-Physics/blob/main/Solved%20Problems/Set%203.ipynb).    [Statistics, Roots Finding,
@@ -37,3 +35,4 @@ Linear Systems,Monte Carlo ,MC Integral]
 
 - [ODE 1](https://github.com/costpetrides/Computational-Physics/blob/main/Solved%20Problems/ODE1.ipynb), [ODE 2](https://github.com/costpetrides/Computational-Physics/blob/main/Solved%20Problems/ODE2.ipynb)  [Ordinary Differential Equation]
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rocker-org/binder/HEAD?urlpath=rstudio)
