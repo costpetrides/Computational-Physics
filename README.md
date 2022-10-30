@@ -30,6 +30,6 @@ Start new code with Google Colaboratory  using  Python:
 
 Solved Problems:
 -----------
-- 2022-2023
+- 2022-2023[https://github.com/costpetrides/Computational-Physics/blob/main/2020-2023.ipynb]
 
 For comments,  email to costpetrides@icloud.com 
