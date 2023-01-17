@@ -3,6 +3,7 @@
 Example codes and brief theory for [Computational Physics Course NKUA](https://eclass.uoa.gr/courses/PHYS192/)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 Notes for Chapter  I - [download](https://github.com/costpetrides/Computational-Physics/blob/main/Notes/Comp.Physics-I.pdf)
+
 Notes for Chapter II - [download](https://github.com/costpetrides/Computational-Physics/blob/main/Notes/Comp.Physics-II.pdf)
 
 0. Graphs
