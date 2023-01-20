@@ -13,13 +13,14 @@ Notes for Chapter II - [download](https://github.com/costpetrides/Computational-
 1. Statistical Data Analysis
    - [Statistics](https://github.com/costpetrides/Computational-Physics/tree/main/Statistics)
    - [Random Numbers Gen.](https://github.com/costpetrides/Computational-Physics/tree/main/Random%20Numbers%20Gen.)
+   - [MC Integral](https://github.com/costpetrides/Computational-Physics/tree/main/MC%20Integral)
 
 2. Mathematical Αnalysis
    - [Roots Finding](https://github.com/costpetrides/Computational-Physics/tree/main/Roots%20Finding)
    - [Linear Systems](https://github.com/costpetrides/Computational-Physics/tree/main/LinearSystems)
    - [Differentiation](https://github.com/costpetrides/Computational-Physics/tree/main/Differentiation)
    - [Ιntegrals](https://github.com/costpetrides/Computational-Physics/tree/main/Integrals)
-   - [MC Integral](https://github.com/costpetrides/Computational-Physics/tree/main/MC%20Integral)
+   
    
 3. Applications
    - [Interpolation](https://github.com/costpetrides/Computational-Physics/tree/main/Interpolation)
