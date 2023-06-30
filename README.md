@@ -14,7 +14,7 @@ Notes for Chapter II - [download](https://github.com/costpetrides/Computational-
 4. [Linear Systems](https://github.com/costpetrides/Computational-Physics/tree/main/LinearSystems)
 5. [Monte Carlo](https://github.com/costpetrides/Computational-Physics/tree/main/Monte%20Carlo)
 6. [MC Integral](https://github.com/costpetrides/Computational-Physics/tree/main/MC%20Integral)
-7. [Fitting](https://github.com/costpetrides/Computational-Physics/tree/main/MC%20Integral))
+7. [Fitting](https://github.com/costpetrides/Computational-Physics/tree/main/Fitting)
 8. [Interpolation](https://github.com/costpetrides/Computational-Physics/tree/main/Interpolation)
 9. [Differentiation](https://github.com/costpetrides/Computational-Physics/tree/main/Differentiation)
 10. [Ιntegrals](https://github.com/costpetrides/Computational-Physics/tree/main/Integrals)
