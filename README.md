@@ -8,7 +8,7 @@ Notes for Chapter II - [download](https://github.com/costpetrides/Computational-
 
 Solved Problems - [download](https://github.com/costpetrides/Computational-Physics/blob/main/Notes/Comp.Physics-II.pdf)
 
---------------
+-------------- 
 0. [Graphs](https://github.com/costpetrides/Computational-Physics/tree/main/Graphs)
 1. [Statistics](https://github.com/costpetrides/Computational-Physics/tree/main/Statistics)
 2. [Random Numbers Gen.](https://github.com/costpetrides/Computational-Physics/tree/main/Random%20Numbers%20Gen.)
