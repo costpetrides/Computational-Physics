@@ -2,8 +2,9 @@
 
 Example codes and brief theory for [Computational Physics Course NKUA](https://eclass.uoa.gr/courses/PHYS192/)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
-[Notes](https://github.com/costpetrides/Computational-Physics/blob/main/Notes/Comp.Physics-I.pdf) 
-[Solved Problems](https://github.com/costpetrides/Computational-Physics/blob/main/Notes/Comp.Physics-II.pdf)
+[Notes](https://github.com/costpetrides/Computational-Physics/tree/main/Notes) 
+
+[Solved Problems](https://github.com/costpetrides/Computational-Physics/tree/main/Notes)
 
 -------------- 
 0. [Graphs](https://github.com/costpetrides/Computational-Physics/tree/main/Graphs)
