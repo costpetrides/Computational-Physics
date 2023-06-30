@@ -21,7 +21,7 @@ Notes for Chapter II - [download](https://github.com/costpetrides/Computational-
 
 
 
-------
+------ 
    
 Start new code with Google Colaboratory  using  Python: 
    
