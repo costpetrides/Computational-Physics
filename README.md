@@ -7,25 +7,19 @@ Notes for Chapter  I - [download](https://github.com/costpetrides/Computational-
 Notes for Chapter II - [download](https://github.com/costpetrides/Computational-Physics/blob/main/Notes/Comp.Physics-II.pdf)
 
 --------------
-0. Graphs
-   - [Graphs](https://github.com/costpetrides/Computational-Physics/tree/main/Graphs)
+0. [Graphs](https://github.com/costpetrides/Computational-Physics/tree/main/Graphs)
+1. [Statistics](https://github.com/costpetrides/Computational-Physics/tree/main/Statistics)
+2. [Random Numbers Gen.](https://github.com/costpetrides/Computational-Physics/tree/main/Random%20Numbers%20Gen.)
+3. [Roots Finding](https://github.com/costpetrides/Computational-Physics/tree/main/Roots%20Finding)
+4. [Linear Systems](https://github.com/costpetrides/Computational-Physics/tree/main/LinearSystems)
+5. [Monte Carlo](https://github.com/costpetrides/Computational-Physics/tree/main/Monte%20Carlo)
+6. [MC Integral](https://github.com/costpetrides/Computational-Physics/tree/main/MC%20Integral)
+7. 
+8. [Interpolation](https://github.com/costpetrides/Computational-Physics/tree/main/Interpolation)
+9. [Differentiation](https://github.com/costpetrides/Computational-Physics/tree/main/Differentiation)
+10. [Ιntegrals](https://github.com/costpetrides/Computational-Physics/tree/main/Integrals)
 
-1. Statistical Data Analysis
-   - [Statistics](https://github.com/costpetrides/Computational-Physics/tree/main/Statistics)
-   - [Random Numbers Gen.](https://github.com/costpetrides/Computational-Physics/tree/main/Random%20Numbers%20Gen.)
-   - [MC Integral](https://github.com/costpetrides/Computational-Physics/tree/main/MC%20Integral)
 
-2. Mathematical Αnalysis
-   - [Roots Finding](https://github.com/costpetrides/Computational-Physics/tree/main/Roots%20Finding)
-   - [Linear Systems](https://github.com/costpetrides/Computational-Physics/tree/main/LinearSystems)
-   - [Differentiation](https://github.com/costpetrides/Computational-Physics/tree/main/Differentiation)
-   - [Ιntegrals](https://github.com/costpetrides/Computational-Physics/tree/main/Integrals)
-   
-   
-3. Applications
-   - [Interpolation](https://github.com/costpetrides/Computational-Physics/tree/main/Interpolation)
-   - [Ordinary Differential Equation](https://github.com/costpetrides/Computational-Physics/tree/main/ODE)
-   - [Monte Carlo](https://github.com/costpetrides/Computational-Physics/tree/main/Monte%20Carlo)
 
 ------
    
