@@ -27,8 +27,5 @@ Start new code with Google Colaboratory  using  Python:
    
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
 
-Solved Problems:
------------
-- [2022-2023](https://github.com/costpetrides/Computational-Physics/blob/main/2020-2023.ipynb)
 
 For comments,  email to costpetrides@icloud.com 
