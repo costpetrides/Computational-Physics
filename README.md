@@ -5,7 +5,7 @@ Example codes and brief theory for [Computational Physics Course NKUA](https://e
 
 [Notes](https://github.com/costpetrides/Computational-Physics/tree/main/Notes) 
 
-[Solved Problems](https://github.com/costpetrides/Computational-Physics/tree/main/Notes)
+[Solved Problems](https://github.com/costpetrides/Computational-Physics/blob/main/Notes/Solved%20Problems.pdf)
 
 -------------- 
 0. [Graphs](https://github.com/costpetrides/Computational-Physics/tree/main/Graphs)
