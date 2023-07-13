@@ -7,7 +7,7 @@ Example codes and brief theory for Computational Physics!!
 
 [Solved Problems](https://github.com/costpetrides/Computational-Physics/blob/main/Notes/PetridesC.pdf)
 
-Main repository in github: [theofil/CompPhysics](https://github.com/theofil/CompPhysics/) 
+Main Course repository in github: [theofil/CompPhysics](https://github.com/theofil/CompPhysics/) 
 
 -------------- 
 0. [Graphs](https://github.com/costpetrides/Computational-Physics/tree/main/Graphs)
