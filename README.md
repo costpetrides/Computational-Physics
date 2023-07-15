@@ -3,8 +3,6 @@
 Example codes and brief theory for Computational Physics!!
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[Notes](https://github.com/costpetrides/Computational-Physics/tree/main/Notes) 
-
 [Solved Problems](https://github.com/costpetrides/Computational-Physics/blob/main/Notes/PetridesC.pdf)
 
 Main Course repository in github: [theofil/CompPhysics](https://github.com/theofil/CompPhysics/) 
