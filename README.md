@@ -3,9 +3,9 @@
 Example codes and brief theory for Computational Physics!!
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[Notes](https://github.com/costpetrides/Computational-Physics/blob/main/Notes/NOTES.pdf)
+[Notes](https://github.com/costpetrides/Computational-Physics/blob/main/Notes/NOTES.pdf) - You can download the file, to have full access!
 
-[Solved Problems](https://github.com/costpetrides/Computational-Physics/blob/main/Notes/PetridesC.pdf)
+[Solved Problems](https://github.com/costpetrides/Computational-Physics/blob/main/Notes/PetridesC.pdf)  - You can download the file, to have full access!
 
 Main Course repository in github: [theofil/CompPhysics](https://github.com/theofil/CompPhysics/) 
 
