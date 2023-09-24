@@ -26,7 +26,7 @@ Main Course repository in github: [theofil/CompPhysics](https://github.com/theof
 8. [Interpolation](https://github.com/costpetrides/Computational-Physics/tree/main/Interpolation)
 9. [Differentiation](https://github.com/costpetrides/Computational-Physics/tree/main/Differentiation)
 10. [Ιntegrals](https://github.com/costpetrides/Computational-Physics/tree/main/Integrals)
-11. [Mind Games and Mathematical Marvels !](https://github.com/costpetrides/Computational-Physics/blob/main/Mind-Games/N-Queens%20puzzle.ipynb)
+11. [Mind Games and Mathematical Marvels !](https://github.com/costpetrides/Computational-Physics/tree/main/Mind-Games)
 
 
 
