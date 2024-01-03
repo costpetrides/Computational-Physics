@@ -1,6 +1,6 @@
 # Computational-Physics
 
-Example codes and brief theory for Computational Physics!!
+Example codes and brief theory for Computational Physics!
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
   You can download the following files, to have full access!
