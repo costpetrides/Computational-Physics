@@ -5,7 +5,7 @@ Example codes and brief theory for Computational Physics!
 
   You can download the following files, to have full access!
   
-[Notes](https://github.com/costpetrides/Computational-Physics/blob/main/Notes/NOTES.pdf) 
+[Notes]([https://github.com/costpetrides/Computational-Physics/blob/main/Notes/NOTES.pdf](https://github.com/costpetrides/Computational-Physics/blob/main/Comp_Phys_Notes.pdf)) 
 
 [Solved Problems](https://github.com/costpetrides/Computational-Physics/blob/main/Notes/PetridesC.pdf) 
 
