@@ -11,7 +11,7 @@ Example codes and brief theory for Computational Physics!
 
 
 
-Main Course repository in github: [theofil/CompPhysics](https://github.com/theofil/CompPhysics/) 
+Professor Konstantinos Theofilatos’s GitHub repository (the official course repository): [theofil/CompPhysics](https://github.com/theofil/CompPhysics/) 
 
 
 -------------- 
