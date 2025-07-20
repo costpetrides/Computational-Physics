@@ -1,15 +1,15 @@
 # Welcome!
 
-This material is for the *Computational Physics* course at **NKUA**.
+This material is for the Computational Physics course at NKUA.
 
-I’ve added two files to help you out:
+I’ve included two files to help you out:
 
 * [Notes](https://github.com/costpetrides/Computational-Physics/blob/main/Comp_Phys_Notes.pdf)  – Start here to get a clear understanding of the concepts.
-* [Solved Problems](https://github.com/costpetrides/Computational-Physics/blob/main/Comp_Phys_Solutions.pdf)  – Once you’ve gone through the notes, try solving the problems yourself before checking the solutions! 
+* [Solved Problems](https://github.com/costpetrides/Computational-Physics/blob/main/Comp_Phys_Solutions.pdf)  – Once you’ve gone through the notes, try solving the problems yourself before checking the solutions!
 
 If you find any bugs, mistakes, or issues, feel free to email me at **[costpetrides@icloud.com](mailto:costpetrides@icloud.com)**.
 
-The official GitHub repo for the course is on **Professor Konstantinos Theofilatos’s** GitHub, where you can also find my solved problems there
+You can also check out the official GitHub repository for the course by Professor Konstantinos Theofilatos, where my solved problems are included as well:
 [theofil/CompPhysics](https://github.com/theofil/CompPhysics)
  
 -------------- 
