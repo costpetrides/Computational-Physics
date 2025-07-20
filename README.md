@@ -1,4 +1,4 @@
-**Welcome!**
+# Welcome!
 
 This material is for the *Computational Physics* course at **NKUA**.
 
