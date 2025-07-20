@@ -9,7 +9,7 @@ I’ve included two files to help you out:
 
 If you find any bugs, mistakes, or issues, feel free to email me at **[costpetrides@icloud.com](mailto:costpetrides@icloud.com)**.
 
-You can also check out the official GitHub repository for the course by Professor Konstantinos Theofilatos, where my solved problems are included as well:
+You can also check out the official GitHub repository for the course by **Professor Konstantinos Theofilatos**, where my solved problems are included as well:
 [theofil/CompPhysics](https://github.com/theofil/CompPhysics)
  
 -------------- 
