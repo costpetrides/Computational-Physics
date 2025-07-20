@@ -1,19 +1,17 @@
-# Computational-Physics
+**Welcome!**
 
-Example codes and brief theory for Computational Physics!
------------------------------------------------------------------------------------------------------------------------------------------------------------
+This material is for the *Computational Physics* course at **NKUA**.
 
-  You can download the following files, to have full access!
-  
-[Notes](https://github.com/costpetrides/Computational-Physics/blob/main/Comp_Phys_Notes.pdf) 
+I’ve added two files to help you out:
 
-[Solved Problems](https://github.com/costpetrides/Computational-Physics/blob/main/Comp_Phys_Solutions.pdf) 
+* [Notes](https://github.com/costpetrides/Computational-Physics/blob/main/Comp_Phys_Notes.pdf)  – Start here to get a clear understanding of the concepts.
+* [Solved Problems](https://github.com/costpetrides/Computational-Physics/blob/main/Comp_Phys_Solutions.pdf)  – Once you’ve gone through the notes, try solving the problems yourself before checking the solutions! 
 
+If you find any bugs, mistakes, or issues, feel free to email me at **[costpetrides@icloud.com](mailto:costpetrides@icloud.com)**.
 
-
-Professor Konstantinos Theofilatos’s GitHub repository (the official course repository): [theofil/CompPhysics](https://github.com/theofil/CompPhysics/) 
-
-
+The official GitHub repo for the course is on **Professor Konstantinos Theofilatos’s** GitHub, where you can also find my solved problems there
+[theofil/CompPhysics](https://github.com/theofil/CompPhysics)
+ 
 -------------- 
 0. [Graphs](https://github.com/costpetrides/Computational-Physics/tree/main/Graphs)
 1. [Statistics](https://github.com/costpetrides/Computational-Physics/tree/main/Statistics)
