@@ -2,7 +2,7 @@
 
 This material is for the Computational Physics course at NKUA.
 
-I’ve included two files to help you out:
+I’ve included two files to help you out: 
 
 * [Notes](https://github.com/costpetrides/Computational-Physics/blob/main/Comp_Phys_Notes.pdf)  – Start here to get a clear understanding of the concepts.
 * [Solved Problems](https://github.com/costpetrides/Computational-Physics/blob/main/Comp_Phys_Solutions.pdf)  – Once you’ve gone through the notes, try solving the problems yourself before checking the solutions!
